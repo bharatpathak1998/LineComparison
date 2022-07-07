@@ -10,7 +10,5 @@ public class LineComparison {
 	    double length = (Math.sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1)));
 	     
 	    System.out.printf("length of line is = %.2f ",length);
-
 	}
-
 }

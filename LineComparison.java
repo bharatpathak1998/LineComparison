@@ -3,7 +3,7 @@ public class LineComparison {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Welcome to Line Comparison Computation");
+            System.out.println("Welcome to Line Comparison Computation");
 		 
 	    int x1=3,x2=5,y1=2,y2=6;
 	     
